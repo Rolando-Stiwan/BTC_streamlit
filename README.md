@@ -24,10 +24,14 @@ El modelo LSTM fue entrenado previamente sobre una ventana deslizante de precios
 Instala los requisitos usando:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
+```
+---
 
-🤝 Créditos
+## 🤝 Créditos
 Desarrollado por Rolando Stiwan — Científico de Datos con enfoque en finanzas cuantitativas, deep learning y riesgo.
 
-⚠️ Disclaimer
+---
+
+## ⚠️ Disclaimer
 Este proyecto es educativo y no constituye asesoría financiera. Invertir en criptomonedas conlleva riesgos.
