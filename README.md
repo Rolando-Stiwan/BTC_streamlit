@@ -1,6 +1,7 @@
 # 📈 Predicción de Señales de Trading para Bitcoin (BTC)
 
 Este proyecto es una aplicación web construida con **Streamlit** que predice señales de trading **BUY** / **SELL** para el precio de Bitcoin (BTC). Utiliza una red neuronal LSTM entrenada previamente, datos históricos financieros, indicadores técnicos y correlaciones con el índice **S&P 500**.
+Link del proyecto https://btcapp-lstm.streamlit.app/
 
 ---
 
@@ -8,7 +9,7 @@ Este proyecto es una aplicación web construida con **Streamlit** que predice se
 
 - Consulta automática de precios históricos de **BTC** y **S&P 500** desde `yfinance`.
 - Cálculo de indicadores técnicos: `SMA`, `RSI`, `MACD`.
-- Predicción de señales **BUY / SELL** usando un modelo LSTM desplegado vía API.
+- Predicción de señales **BUY / SELL** usando un modelo LSTM desplegado vía API (https://btc-6vq9.onrender.com/docs).
 - Interfaz web interactiva con visualización de gráficos y tablas.
 
 ---
